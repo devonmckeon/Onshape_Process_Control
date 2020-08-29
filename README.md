@@ -26,7 +26,7 @@ Download this repository and make sure that you have both the onshape-client and
 Run the below bash command to set the flask environment variable for this app. 
 
 ```bash
-export FLASK_APP = main.py
+export FLASK_APP=main.py
 ```
 After you have set the variable run
 ```bash
